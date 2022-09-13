@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-08T06:22:49.681750Z</date>
+  <millis>1662618169681</millis>
+  <nanos>750000</nanos>
+  <sequence>0</sequence>
+  <logger>com.te.logger.LoggerDemo</logger>
+  <level>SEVERE</level>
+  <class>com.te.logger.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I'm Sever</message>
+</record>
+</log>
